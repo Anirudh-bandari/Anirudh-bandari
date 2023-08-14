@@ -4,6 +4,15 @@
 
 A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ App development, but willing to work on projects of any domain.
 
+<h2> About Me </h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/git-header.svg" />
+
+
+- 👨‍💻👨‍💻 I’m looking to collaborate on OSS projects, publications, and video tutorials
+
+- 💬 Talk to me about JavaScript, Mobile, Machine Learning, and Open Source 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anirudh_bandari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-bandari) 
 
