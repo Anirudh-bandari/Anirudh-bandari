@@ -1,5 +1,4 @@
 
-[![](https://visitcount.itsvg.in/api?id=Anirudh-bandari&icon=0&color=0)](https://visitcount.itsvg.in)
 # Hi there, I'm Anirudh  [<img src="./wave.gif " width="50"/>]() 
 
 A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ App development, but willing to work on projects of any domain.
@@ -50,10 +49,12 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=ffffff)](https://app.netlify.com/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anirudh-bandari&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anirudh-bandari&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh-bandari&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benbahrenburg&show_icons=true&locale=en&layout=compact&card_width=225" alt="benbahrenburg" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=benbahrenburg&show_icons=true&bg_color=ffffff&hide_title=true&theme=default" />
+</div>
 
 
 ### ✍️ Random Dev Quote
