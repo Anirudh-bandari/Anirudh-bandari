@@ -1,3 +1,5 @@
+
+[![](https://visitcount.itsvg.in/api?id=Anirudh-bandari&icon=0&color=0)](https://visitcount.itsvg.in)
 # Hi there, I'm Anirudh  [<img src="./wave.gif " width="50"/>]() 
 
 A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ App development, but willing to work on projects of any domain.
@@ -50,6 +52,6 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anirudh-bandari&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
