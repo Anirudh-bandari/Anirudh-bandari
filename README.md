@@ -13,8 +13,13 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 
 - 💬 Talk to me about JavaScript, Mobile, Machine Learning, and Open Source 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anirudh_bandari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-bandari) 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/benjaminbahrenburg'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/bencoding'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/twitter.svg"/></a> 
+<a href = 'https://www.github.com/benbahrenburg'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/github.svg"/></a> 
+<br/>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benbahrenburg&label=Profile%20views&color=0e75b6&style=flat" alt="benbahrenburg" /> </p> 
 
 ## Technology Stack & Tools
 
