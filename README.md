@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anirudh Bandari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-w=1060&t=st=1692021715~exp=1692022315~hmac=1baf4f99357fc3e94e60f7e1905d32963eb36ec6af01fec402bee616120a66a1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-bandari&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-bandari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh-bandari" alt="anirudh-bandari" /></a> </p>
