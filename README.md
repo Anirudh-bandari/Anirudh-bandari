@@ -52,10 +52,9 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 <h2> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benbahrenburg&show_icons=true&locale=en&layout=compact&card_width=225" alt="benbahrenburg" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=benbahrenburg&show_icons=true&bg_color=ffffff&hide_title=true&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anirudh-bandari&show_icons=true&locale=en&layout=compact&card_width=225" alt="Anirudh-bandari" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Anirudh-bandari&show_icons=true&bg_color=ffffff&hide_title=true&theme=default" />
 </div>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
