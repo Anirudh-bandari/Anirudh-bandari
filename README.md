@@ -8,7 +8,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/git-header.svg" />
 
 
-- 👨‍💻👨‍💻 I’m looking to collaborate on OSS projects, publications, and video tutorials
+- 👨‍💻👨‍💻 I’m looking to collaborate on ML projects, publications, and GameDev
 
 - 💬 Talk to me about JavaScript, Mobile, Machine Learning, and Open Source 
 
@@ -54,11 +54,9 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anirudh-bandari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
 
 
 
