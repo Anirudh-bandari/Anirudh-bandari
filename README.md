@@ -49,12 +49,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=ffffff)](https://app.netlify.com/)
 
-<h2> GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anirudh-bandari&show_icons=true&locale=en&layout=compact&card_width=225" alt="Anirudh-bandari" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Anirudh-bandari&show_icons=true&bg_color=ffffff&hide_title=true&theme=default" />
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -65,7 +60,7 @@ A student developer from Mumbai, India. Enthusiastic programmer. Looking for pro
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
