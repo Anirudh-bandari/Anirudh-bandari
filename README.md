@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham  [<img src="./wave.gif " width="50"/>]() 
+# Hi there, I'm Anirudh  [<img src="./wave.gif " width="50"/>]() 
 
 A student developer from Mumbai, India. Enthusiastic programmer. Looking for projects in full stack/ App development, but willing to work on projects of any domain.
 
